@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kngalalu&label=Profile%20views&color=0e75b6&style=flat" alt="kngalalu" /> </p>
 
-- 🔭 I’m currently working on **React and NextJS**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React and Nextjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kngalalu](https://github.com/kngalalu)
 
-- 💬 Ask me about **PHP, Javascript and C**
+- 💬 Ask me about **PHP, Javascript, C, React**
 
 - 📫 How to reach me **katlego.ngalalume@gmail.com**
 
